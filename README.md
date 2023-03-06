@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justamanpop, a software engineer who just started out. 
 - 👀 I’m interested in learning and understanding different frameworks and tools I use. 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently preparing for the AWS developer associate exam.
 - 💞️ I’m looking to collaborate on Nothing.
 - 📫 How to reach me anishsekh1999@gmail.com
 
